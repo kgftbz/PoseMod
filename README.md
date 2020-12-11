@@ -8,6 +8,8 @@ Already able to inject custom c# dlls, but no fancy menus or runtime text script
 Check releases here:
 https://github.com/kgftbz/PoseMod/releases
 
+Source code of native executables not included
+
 
 # To Do
 add the scripts for all core and freecam versions
