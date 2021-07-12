@@ -10,6 +10,8 @@ https://github.com/kgftbz/PoseMod/releases
 
 Source code of native executables not included
 
+The "Posemod Loaded" message is temporary, it's just to know if it injected properly while it's in testing state
+
 
 # To Do
 add the scripts for all core and freecam versions
